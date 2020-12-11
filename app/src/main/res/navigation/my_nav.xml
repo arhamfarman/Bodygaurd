@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/location">
+
+    <fragment
+        android:id="@+id/location"
+        android:name="com.example.bodygaurd.LocationFragment"
+        android:label="fragment_location"
+        tools:layout="@layout/fragment_location" />
+    <fragment
+        android:id="@+id/stats"
+        android:name="com.example.bodygaurd.Stats"
+        android:label="fragment_stats"
+        tools:layout="@layout/fragment_stats" />
+    <fragment
+        android:id="@+id/health"
+        android:name="com.example.bodygaurd.Health"
+        android:label="fragment_health"
+        tools:layout="@layout/fragment_health" />
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.example.bodygaurd.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

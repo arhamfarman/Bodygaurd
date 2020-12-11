@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624450418219",
+    "project_id": "bodygaurd-df6b5",
+    "storage_bucket": "bodygaurd-df6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624450418219:android:bdec1d5c8c4c177a5a1c6e",
+        "android_client_info": {
+          "package_name": "com.example.bodygaurd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624450418219-202f0o7fedjkhs1v67cgb8f3c1vuefe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFom-Libt7QzmFXsgmpdgB1eYcjmAE-nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624450418219-202f0o7fedjkhs1v67cgb8f3c1vuefe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
